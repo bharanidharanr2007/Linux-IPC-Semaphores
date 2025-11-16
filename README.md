@@ -127,11 +127,13 @@ int main() {
 $ ./sem.o 
 
 
+<img width="507" height="578" alt="Screenshot 2025-11-16 222254" src="https://github.com/user-attachments/assets/2fc7d69e-420d-40e5-93bd-ad7f32ddd495" />
 
 
 
 $ ipcs
 
+<img width="503" height="115" alt="Screenshot 2025-11-16 222321" src="https://github.com/user-attachments/assets/aebfc518-24ae-40af-8c2c-a36c2d1183d0" />
 
 
 
